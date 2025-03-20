@@ -1,0 +1,11 @@
+:root {
+    --el-menu-base-level-padding: 10px;
+    --el-menu-level-padding: 14px;
+    --el-color-primary: #006be6;
+    --el-color-primary-light-3: #338ceb;
+    --el-color-primary-light-5: #99c2f5;
+    --el-color-primary-light-7: #99c2f5;
+    --el-color-primary-light-8: #b3d1f8;
+    --el-color-primary-light-9: #cce0fa;
+    --el-color-primary-dark-2: #0056b8;
+}
